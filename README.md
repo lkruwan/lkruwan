@@ -95,5 +95,11 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DARKCRIME1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Hiruwa" /></p>
 
-https://camo.githubusercontent.com/39bdb1de118dedc52f6125683f849514a10b1f4fd816c234fa31e5791b177fa7/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4441524b4352494d45312662675f636f6c6f723d30303030303026636f6c6f723d346666663637266c696e653d34666666363726706f696e743d66666666666626617265613d7472756526686964655f626f726465723d74727565
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARKCRIME1&theme=radical" alt="Hiruwa" /></p>
+ 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DARKCRIME1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
